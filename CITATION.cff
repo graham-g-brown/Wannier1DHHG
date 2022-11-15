@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Wannier1DHHG
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Graham Gardiner Brown
+    name-particle: Brown
+    family-names: Graham Gardiner
+    email: brown@mbi-berlin.de
+    affiliation: Max Born Institute
+    orcid: 'https://orcid.org/0000-0002-1944-3261'
